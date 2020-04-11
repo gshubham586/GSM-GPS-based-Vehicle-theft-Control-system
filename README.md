@@ -4,12 +4,13 @@ This project is designed for vehicle theft control. This is a GSM and GPS based 
 Its accuracy is about 5-10m.
 This project can also be used for other purpose like in your luggage bag, Bike etc.
 
-Connections
+##Connections
 
-Arduino uno            GSM Module
-GND                     GND
-3                       RX
-4                       TX
+Aruino uno   ---  GSM Module
+GND --- GND
+3 --- Rx
+4 --- Tx
+
 
 Arduino uno            GPS Module
 3.3                       VCC
